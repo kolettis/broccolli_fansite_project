@@ -1,0 +1,34 @@
+body{
+  background-color: white;
+}
+p {color:gray;
+  font-size: 24px;
+
+}
+/* CLASSES */
+.broccolli{
+  background-color: red;
+
+}
+.strawberry{
+  background-color: yellow;
+}
+.Par1 {
+  color: green;
+}
+.Par2 {
+  color: gray;
+}
+.Par3{
+color: yellow;
+}
+/* IDS */
+#P1 {
+  background-color: red;
+}
+#P2 {
+  background-color: green;
+}
+#P3{
+  background-color: blue;
+}
